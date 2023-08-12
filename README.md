@@ -1,5 +1,4 @@
 # mencoba-lagi
-==
 Contoh untuk membuat file READ.ME
 --
 Ini cara untuk membuat file read.me gaes
